@@ -1,5 +1,5 @@
 # SunriseSunset
-Data for the Sunrise Sunset project.
+Data for the Sunrise-Sunset project.
 
 The `Data.gpkg` geopackage contains the following three layers:
 
@@ -10,4 +10,4 @@ The `Data.gpkg` geopackage contains the following three layers:
 3. `LULC`
     - A layer depicting the Land Use and Land Cover within the project area
 
-All layers are in the _NAD83(HARN) / Florida North_ projection (EPSG: 2779).
+All layers are in the _NAD83(2011) / Florida North_ projection ([EPSG: 6440](https://epsg.io/6440)).
