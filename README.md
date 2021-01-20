@@ -1,5 +1,5 @@
 # SunriseSunset
-Data for the Sunrise-Sunset project.
+Data for the Sunrise/Sunset project.
 
 The `Data.gpkg` geopackage contains the following three layers:
 
